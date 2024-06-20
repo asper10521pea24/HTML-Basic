@@ -1,0 +1,30 @@
+body{
+    background-image:url("files/cyberpunk-3840x2160-1003.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.hi{
+    margin-left: 50px;
+}
+
+.bye{
+    margin-left: 73%;
+    position: absolute;
+    top: 30%;
+
+}
+
+.good{
+    margin-left: 50px;
+    margin-top:5%;
+
+}
+
+.bad{margin-left: 63%;
+    position: absolute;
+    top:69%;
+
+}
+
